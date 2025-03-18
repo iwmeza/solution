@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 20.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Apol", "Apol\Apol\Apol.ssmssqlproj", "{4DC6A188-A44D-4A38-ABB1-4B71E5C38EDD}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Basic_Selects", "Basics_Selects\Basic_Selects\Basic_Selects.ssmssqlproj", "{6D14224A-FF17-4CB4-BAC8-DDC3E21E3CC7}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Join_two", "Join_two\Join_two\Join_two.ssmssqlproj", "{1B73C8CD-70E6-469F-93EB-746D13FA876E}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Summarize_data_queries", "Summarize_data_queries\Summarize_data_queries\Summarize_data_queries.ssmssqlproj", "{53A61F97-07FA-4684-9134-88E7409F0C2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DC6A188-A44D-4A38-ABB1-4B71E5C38EDD}.Default|Default.ActiveCfg = Default
+		{AA93856C-6D0C-4DE3-9C26-FF2F7123803C}.Default|Default.ActiveCfg = Default
+		{6D14224A-FF17-4CB4-BAC8-DDC3E21E3CC7}.Default|Default.ActiveCfg = Default
+		{1B73C8CD-70E6-469F-93EB-746D13FA876E}.Default|Default.ActiveCfg = Default
+		{53A61F97-07FA-4684-9134-88E7409F0C2C}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {393F6FB8-6290-47B0-9FE6-B456523C635B}
+	EndGlobalSection
+EndGlobal
