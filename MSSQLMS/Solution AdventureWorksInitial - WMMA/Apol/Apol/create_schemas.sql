@@ -1,0 +1,8 @@
+USE Apol;
+
+CREATE SCHEMA Categories;
+CREATE SCHEMA Products;
+CREATE SCHEMA Continents;
+CREATE SCHEMA Countries;
+CREATE SCHEMA Quarters;
+CREATE SCHEMA Facts;
